@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NYAAN</string>
+    <string name="about">Profil</string>
+    <string name="contact">Kontak</string>
+    <string name="list">Teman</string>
+    <string name="goodMorning">Good Morning Walidin!</string>
+    <string name="nameProfile">Muhammad Walidin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tambahButton">Tambah</string>
+    <string name="title_activity_new_teman">NewTeman</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="nim">NIM</string>
+    <string name="nim2">10117094</string>
+    <string name="kelas2">10117094</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="telpon">No Hp</string>
+    <string name="email">E-mail</string>
+    <string name="ig">Instagram</string>
+    <string name="date">Date</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+</resources>
